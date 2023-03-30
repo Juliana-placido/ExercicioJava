@@ -7,6 +7,6 @@ public class TestaCliente {
 
         cliente1.visualizar();
         System.out.println();
-        cliente2.visualizar();;
+        cliente2.visualizar();
     }
 }
